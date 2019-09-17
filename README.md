@@ -2,7 +2,7 @@
 (_Isn't that insane looking?_)
 
 ### Introduction
-This is your **class repo**. Anything and everything we do in class, outside of class, that we feel like sharing, linking, or just saving will go in this repo. That means that you can find _everything and anything relevant to class on here except for the workshops themselves (and even for those, we will have links._ Hello world.
+This is your **class repo**. Anything and everything we do in class, outside of class, that we feel like sharing, linking, or just saving will go in this repo. That means that you can find _everything and anything relevant to class on here except for the workshops themselves (and even for those, we will have links._ 
 
 ### A Table of Our Stuff
 
